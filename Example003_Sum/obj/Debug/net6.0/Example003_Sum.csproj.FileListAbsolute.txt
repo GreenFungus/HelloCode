@@ -1,0 +1,15 @@
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+D:\botany\VSC_FOR_GB\С#\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
